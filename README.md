@@ -5,37 +5,49 @@
 
 ### A Modern, Responsive & Creative Developer Portfolio
 
-A personal portfolio website designed and developed to showcase my skills, projects, education, and journey in software development.
+A personal portfolio website showcasing my skills, education, projects, and software development journey.
 
-<br/>
+<br>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge)](https://nouralsuht.github.io/Capstone-Project-1/)
-[![Figma Design](https://img.shields.io/badge/Figma_Design-EC4899?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/RO7xtsJBccYBOleGx5hnfM/project)
-[![GitHub](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nouralsuht/Capstone-Project-1)
+<a href="https://unrivaled-torte-559751.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LIVE_WEBSITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
+</a>
+
+<a href="https://www.figma.com/design/RO7xtsJBccYBOleGx5hnfM/project" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/FIGMA_DESIGN-EC4899?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design">
+</a>
+
+<a href="https://github.com/nouralsuht/Capstone-Project-1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+
+<br><br>
+
+**✨ Explore my portfolio, projects, and development journey.**
 
 </div>
 
 ---
 
-## ✨ Project Overview
+## 👩‍💻 Project Overview
 
-This project is a responsive personal portfolio website developed using **HTML5, CSS3, Flexbox, and Bootstrap**.
+This project is a modern and responsive personal portfolio website built using **HTML5, CSS3, Flexbox, and Bootstrap**.
 
-The goal of this project is to create a professional online presence while practicing modern web design principles, responsive layouts, CSS animations, and UI development.
+It was developed to showcase my technical skills, educational background, and projects through a clean and user-friendly interface.
 
-The portfolio highlights my technical skills, educational background, and development projects through a clean and user-friendly interface.
+The portfolio focuses on responsive web design, CSS animations, interactive visual effects, and an organized layout.
 
 ---
 
-## 🚀 Key Features
+## ✨ Key Features
 
 - 🎨 **Modern UI Design** — Clean and visually appealing interface
-- 📱 **Fully Responsive** — Optimized for desktop, tablet, and mobile devices
-- 🧭 **Navigation Bar** — Easy navigation between website sections
-- 💜 **Hero Section** — Personal introduction with visual effects
-- 👩‍💻 **About & Education** — Background and educational journey
-- 🛠️ **Skills Section** — Technical skills displayed in organized cards
-- 📂 **Projects Showcase** — Responsive project cards
+- 📱 **Responsive Layout** — Adapts to different screen sizes
+- 🧭 **Navigation Bar** — Smooth and easy navigation
+- 💜 **Hero Section** — Personal introduction with animations
+- 👩‍💻 **About & Education** — Personal background and academic journey
+- 🛠️ **Skills Section** — Organized technical skills cards
+- 📂 **Projects Showcase** — Responsive project gallery
 - ✉️ **Contact Section** — Contact form and social links
 - 🌙 **Light & Dark Mode** — Theme switching using CSS
 - ✨ **CSS Animations** — Hover effects, transitions, and floating elements
@@ -46,15 +58,14 @@ The portfolio highlights my technical skills, educational background, and develo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github&theme=light" alt="Technologies Used" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github&theme=light" alt="Technologies Used">
 
-<br/><br/>
+<br><br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive_Design-7C3AED?style=flat-square)
-![Flexbox](https://img.shields.io/badge/CSS_Flexbox-EC4899?style=flat-square)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Flexbox-7C3AED?style=for-the-badge" alt="Flexbox">
 
 </div>
 
@@ -65,7 +76,7 @@ The portfolio highlights my technical skills, educational background, and develo
 | Section | Description |
 |---------|-------------|
 | 🏠 Home | Introduction and hero section |
-| 👩‍💻 About | Personal background and education |
+| 👩‍💻 About | Personal information and education |
 | 🛠️ Skills | Technical skills and technologies |
 | 🚀 Projects | Showcase of development projects |
 | ✉️ Contact | Contact form and social links |
@@ -74,66 +85,74 @@ The portfolio highlights my technical skills, educational background, and develo
 
 ## 📱 Responsive Design
 
-The website adapts to different screen sizes using:
+The website is designed to provide a consistent experience across desktop, tablet, and mobile devices.
+
+Responsive techniques include:
 
 - CSS Flexbox
 - CSS Grid
 - Media Queries
-- Bootstrap
-- Flexible layouts and responsive components
-
-The design provides a consistent user experience across **desktop, tablet, and mobile devices**.
+- Bootstrap components
+- Flexible and responsive layouts
 
 ---
 
 ## 🎨 Design & Color Palette
 
-The interface uses a purple-inspired color palette.
+The portfolio follows a modern, purple-inspired visual identity.
 
 | Color | Hex Code | Usage |
 |-------|----------|-------|
-| 💜 Primary Purple | `#7C3AED` | Main theme color |
+| 💜 Primary Purple | `#7C3AED` | Primary buttons and highlights |
 | 🟣 Dark Purple | `#6D28D9` | Hover effects |
 | 🤍 White | `#FFFFFF` | Light backgrounds |
 | 🖤 Dark | `#1E1E1E` | Dark theme elements |
 
 ### 🎨 Figma Design
 
-The website layout and visual design can be explored through the Figma file.
+Explore the original design and layout:
 
-[![View Figma](https://img.shields.io/badge/View_Figma_Design-EC4899?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/RO7xtsJBccYBOleGx5hnfM/project)
+<a href="https://www.figma.com/design/RO7xtsJBccYBOleGx5hnfM/project" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/VIEW_FIGMA_DESIGN-EC4899?style=for-the-badge&logo=figma&logoColor=white" alt="View Figma Design">
+</a>
 
 ---
 
 ## 🌐 Live Preview
 
-Experience the live website here:
+Experience the website and explore its features:
 
-### [🚀 Explore My Portfolio](https://nouralsuht.github.io/Capstone-Project-1/)
+<div align="center">
+
+<a href="https://unrivaled-torte-559751.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio">
+</a>
+
+</div>
 
 ---
 
 ## 💻 Getting Started
 
-To run this project locally:
+To run the project locally, follow these steps.
 
-**1. Clone the repository**
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/nouralsuht/Capstone-Project-1.git
 ```
 
-**2. Navigate to the project folder**
+### 2. Navigate to the Project Folder
 
 ```bash
 cd Capstone-Project-1
 ```
 
-**3. Open the project**
+### 3. Open the Project
 
 Open `index.html` in your browser or use the **Live Server** extension in Visual Studio Code.
 
-No backend server or additional installation is required.
+No backend server is required.
 
 ---
 
@@ -141,13 +160,14 @@ No backend server or additional installation is required.
 
 Through this project, I strengthened my understanding of:
 
-- Structuring web pages using semantic HTML
-- Building responsive layouts with CSS and Flexbox
-- Using Bootstrap components
-- Creating CSS animations and hover effects
-- Implementing light and dark themes
-- Translating UI designs into functional web pages
-- Organizing project files and managing source code with Git and GitHub
+- Writing semantic HTML
+- Creating responsive layouts
+- Working with CSS Flexbox and Grid
+- Using Bootstrap for responsive design
+- Implementing CSS animations and hover effects
+- Creating light and dark themes
+- Translating UI designs into web pages
+- Managing source code using Git and GitHub
 
 ---
 
@@ -161,10 +181,19 @@ Through this project, I strengthened my understanding of:
 
 📍 Jordan
 
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nouralsuht)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-a-3ab3982b5/)
+<br>
 
-<br/>
+<a href="https://github.com/nouralsuht" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/nour-a-3ab3982b5/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nouralsuht&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views">
 
 ### 💜 Designed & Developed by Nour Alsaht
 
